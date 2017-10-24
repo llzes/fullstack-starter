@@ -7,7 +7,7 @@ const appState={
   showFoodList:true
 };
 //STATE MOD(S)
-function initialisePairsPage(state){
+function initialiseCheesecakePage(state){
   state.showFoodList=true;
 }
 //RENDER
